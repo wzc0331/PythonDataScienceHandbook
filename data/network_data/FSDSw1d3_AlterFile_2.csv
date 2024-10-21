@@ -1,0 +1,6 @@
+nodeID,networkCanvasEgoUUID,networkCanvasUUID,name,ng_close,alter_live_hometown_1,alter_live_hometown_0,alter_live_hometown_-1,alter_live_now_1,alter_live_now_0,alter_live_now_-1,alter_contact_freq,null
+1,42c648b3-36df-43da-9a45-bc27528d243f,369a9b50-510a-421b-b6df-99ad83a05f76,Daffy,true,false,true,false,false,true,false,2,
+2,42c648b3-36df-43da-9a45-bc27528d243f,96d1addb-44cb-4bc7-93ae-1f937a803cd3,bugs,true,true,false,false,false,true,false,3,
+3,42c648b3-36df-43da-9a45-bc27528d243f,e972ae78-fb8c-479e-8f97-4d4ef5bc2d01,Elmer,true,false,true,false,true,false,false,2,
+4,42c648b3-36df-43da-9a45-bc27528d243f,e8db54fc-ae5f-4988-960f-f55399bf240c,Foghorn,true,false,false,true,true,false,false,1,
+5,42c648b3-36df-43da-9a45-bc27528d243f,cec31140-3c79-4598-993b-944b05e5183a,Porky,true,true,false,false,false,true,false,3,

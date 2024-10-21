@@ -1,0 +1,6 @@
+networkCanvasEgoUUID,networkCanvasCaseID,networkCanvasSessionID,networkCanvasProtocolName,sessionStart,sessionFinish,sessionExported,ego_live_home
+679e7d1d-6333-4d9d-aaed-4d4d0b04da08,case_001,95c87f16-78db-46ab-b978-222ba8dc9fe7,FSDS_ToyNetworkProtocol,2024-10-17T12:43:15.751Z,2024-10-17T12:44:02.899Z,2024-10-17T12:51:46.150Z,false
+1c24befa-615e-4958-a61e-b35fa177eca3,case_002,cdfacd6e-a45a-44f3-9d6f-1a42dbb3754f,FSDS_ToyNetworkProtocol,2024-10-17T12:44:07.866Z,2024-10-17T12:45:24.011Z,2024-10-17T12:51:46.153Z,true
+2733bdae-69d9-47a4-bcbb-a981ba8c6b0c,case_003,2652fd45-4f63-4e03-957b-e3dd018c5ecb,FSDS_ToyNetworkProtocol,2024-10-17T12:45:28.876Z,2024-10-17T12:47:27.130Z,2024-10-17T12:51:46.155Z,false
+50e482de-574d-4a4c-b9f4-3576a02603bf,case_004,815d597a-f8da-467e-a190-1e56cf5a541f,FSDS_ToyNetworkProtocol,2024-10-17T12:47:32.258Z,2024-10-17T12:48:33.045Z,2024-10-17T12:51:46.160Z,true
+42c648b3-36df-43da-9a45-bc27528d243f,case_005,cc5f8f3e-cf0e-44e7-bbb3-7c435dac64c4,FSDS_ToyNetworkProtocol,2024-10-17T12:48:37.362Z,2024-10-17T12:50:37.648Z,2024-10-17T12:51:46.170Z,false

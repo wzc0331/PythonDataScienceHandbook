@@ -1,0 +1,6 @@
+nodeID,networkCanvasEgoUUID,networkCanvasUUID,name,ng_close,alter_live_hometown_1,alter_live_hometown_0,alter_live_hometown_-1,alter_live_now_1,alter_live_now_0,alter_live_now_-1,alter_contact_freq,null
+1,2733bdae-69d9-47a4-bcbb-a981ba8c6b0c,f4fc9377-0a5f-4fd3-8c70-562ed99791a1,Alice,true,false,true,false,true,false,false,1,
+2,2733bdae-69d9-47a4-bcbb-a981ba8c6b0c,fb229e12-4660-43bd-92a1-d5dbaaabdf60,Hermione,true,false,true,false,true,false,false,2,
+3,2733bdae-69d9-47a4-bcbb-a981ba8c6b0c,8c0d3bfb-95ab-480c-b5b9-467419c434f4,Frodo,true,true,false,false,true,false,false,2,
+4,2733bdae-69d9-47a4-bcbb-a981ba8c6b0c,35dfe21a-6f04-4cca-bedc-816fb5a5c8ab,Bilbo,true,true,false,false,true,false,false,1,
+5,2733bdae-69d9-47a4-bcbb-a981ba8c6b0c,2801ff25-9d53-434e-9a89-f813e6afda01,Harry,true,false,true,false,true,false,false,3,
